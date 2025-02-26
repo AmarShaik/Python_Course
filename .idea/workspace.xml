@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c38bffa-d798-4b51-bb3e-bfa00507b9b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 - variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 - typecasting.py" afterDir="false" />
+    <list default="true" id="3c38bffa-d798-4b51-bb3e-bfa00507b9b0" name="Changes" comment="inputs lesson Python_Course project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AmarShaik"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="82c2b695-65e9-456c-b73d-28bd0f991ceb" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AmarShaik/Python_Course.git",
+    "accountId": "82c2b695-65e9-456c-b73d-28bd0f991ceb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -42,11 +48,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2 - typecasting.executor": "Run",
+    "Python.3 - inputs.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -65,6 +73,31 @@
       <option name="presentableId" value="Default" />
       <updated>1740507720088</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit for Python_Course project">
+      <option name="closed" value="true" />
+      <created>1740548071261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740548071261</updated>
+    </task>
+    <task id="LOCAL-00002" summary="typecasting lesson Python_Course project">
+      <option name="closed" value="true" />
+      <created>1740549404780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740549404780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="inputs lesson Python_Course project">
+      <option name="closed" value="true" />
+      <created>1740551006425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740551006425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +110,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit for Python_Course project" />
+    <MESSAGE value="typecasting lesson Python_Course project" />
+    <MESSAGE value="inputs lesson Python_Course project" />
+    <option name="LAST_COMMIT_MESSAGE" value="inputs lesson Python_Course project" />
   </component>
 </project>
