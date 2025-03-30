@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c38bffa-d798-4b51-bb3e-bfa00507b9b0" name="Changes" comment="inputs lesson Python_Course project">
-      <change afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 - typecasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 - typecasting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 - inputs.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 - inputs.py" afterDir="false" />
-    </list>
+    <list default="true" id="3c38bffa-d798-4b51-bb3e-bfa00507b9b0" name="Changes" comment="inputs lesson Python_Course project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,17 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2 - typecasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3 - inputs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2 - typecasting.executor": "Run",
+    "Python.3 - inputs.executor": "Run",
+    "Python.4 - string.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/shaik/OneDrive/Desktop/Python Course/Python_Course",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740551441384</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="inputs lesson Python_Course project">
+      <option name="closed" value="true" />
+      <created>1743354382777</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743354382777</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
