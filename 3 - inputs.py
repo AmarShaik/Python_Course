@@ -1,5 +1,5 @@
-# input() - An function that prompts the user to enter the data
-#           returns the entered dta as a string
+# input() - A function that prompts the user to enter the data
+#           returns the entered data as a string
 
 name = input("What is your name?: ")
 age = int(input("How old are you?: "))     # int(input()) - typecasting method
